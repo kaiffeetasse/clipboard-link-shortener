@@ -1,0 +1,5 @@
+requests~=2.25.1
+Django~=3.1.7
+win10toast~=0.9
+pywin32~=300
+python-dotenv~=0.15.0
