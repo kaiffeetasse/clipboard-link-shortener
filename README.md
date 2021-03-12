@@ -14,3 +14,6 @@
 KUTT_URL=https://kutt.it/api/v2/links
 KUTT_API_KEY=12345
 ```
+
+## Credits
+Thanks to [kutt.it](https://github.com/thedevs-network/kutt) for their amazing free URL shortener!
